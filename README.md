@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**ArjunKattaEng/ArjunKattaEng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 📖 Hobbies
+    Reading
+    Writing
+    Art
+    Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on:
+    https://discord.gg/66uVMMsWUu
+    https://github.com/FIRST-PIT/DUM-E
+    
+
+- 📫 How to reach me:
+    "hatperson13." on discord,
+    "arjunkatta-dev@outlook.com"
+
+- 😄 Pronouns: He/Him
+
